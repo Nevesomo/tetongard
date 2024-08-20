@@ -10,7 +10,7 @@
 
 2) Сверхинтеллект
 
-скачать мой файл data.cbd ->
+скачать мой файл data.cbd -> 
 
 скачать QuickBMS -> https://aluigi.altervista.org/papers/quickbms.zip
    
