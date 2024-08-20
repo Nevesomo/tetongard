@@ -4,6 +4,7 @@
 
 1) Элементарый
 1.1 Скачать архив tetonkagard.rar
+
    https://drive.google.com/file/d/1Yq-IwLZABfGgUwov0XoiP50u_Vp5jW98/view?usp=sharing
 1.2 Скопировать файл res.pak из архива в папку с игрой
 
